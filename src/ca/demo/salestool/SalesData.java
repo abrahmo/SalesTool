@@ -14,6 +14,7 @@ public class SalesData {
 			// Commit#: 4 feature/display-comment
 			// Commit#: 5 feature/display-comment
 			// Commit#: 6 feature/display-comment
+			// Commit#: 7 master
 		}
 	}
 }
