@@ -18,9 +18,9 @@ public class SalesData {
 			// Commit#: 9
 			// Commit#: 10
 			// Commit#: 11
-			// Commit#: 12b
-			// Commit#: 13b
-			// Commit#: 14b
+			// Commit#: 12
+			// Commit#: 13
+			// Commit#: 14
 			// Commit#: 15b
 			
 		}
