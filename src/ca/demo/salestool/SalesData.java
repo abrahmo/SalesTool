@@ -26,7 +26,10 @@ public class SalesData {
 			// Commit#: 15d
 			// Commit#: 15e
 			// Commit#: 15f
+<<<<<<< HEAD
 			// Commit#: 15g
+=======
+>>>>>>> branch 'feature/display-comment' of https://github.com/abrahmo/SalesTool.git
 			
 		}
 	}
